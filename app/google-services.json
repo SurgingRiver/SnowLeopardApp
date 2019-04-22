@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "388190455463",
+    "firebase_url": "https://snowleopardapp.firebaseio.com",
+    "project_id": "snowleopardapp",
+    "storage_bucket": "snowleopardapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388190455463:android:f37929484d9eeabe",
+        "android_client_info": {
+          "package_name": "com.kwf.snowleopardapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388190455463-us8k1m67g339bg078uvbjvg39jnv1pqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kwf.snowleopardapp",
+            "certificate_hash": "26ea2bbb4b047e29a7b1c3c675c83cafbbae26a0"
+          }
+        },
+        {
+          "client_id": "388190455463-jdq75okje86c93vgrpumgmiegd1v6iei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5rWtG_20I3jLnTyXVx2eEhC-2VId1X4I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388190455463-jdq75okje86c93vgrpumgmiegd1v6iei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
